@@ -1,0 +1,3 @@
+C:/Users/Coope/Desktop/Comp Sci 3 The Compening/Testing_CPP_Fixed/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Coope/Desktop/Comp Sci 3 The Compening/Testing_CPP_Fixed/cmake-build-debug/CMakeFiles/Testing_CPP_Fixed.dir
+C:/Users/Coope/Desktop/Comp Sci 3 The Compening/Testing_CPP_Fixed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
